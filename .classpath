@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-12">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/annotations-java5-18.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/ejml-cdense-0.38.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/ejml-core-0.38.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/ejml-ddense-0.38.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/ejml-dsparse-0.38.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/ejml-fdense-0.38.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/ejml-simple-0.38.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/ejml-zdense-0.38.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/elki-core-api-0.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/elki-core-dbids-0.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/elki-core-math-0.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/elki-core-util-0.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/elki-logging-0.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/fastutil-8.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/chart.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/jafama-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/jama-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/jama-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/javaslang-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/javaslang-match-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/linkedlist-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/matrix-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/nd4j-api-1.0.0-beta6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/pca_transform-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/postgresql-9.1-901-1.jdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/queue-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/queue-example-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/scala-library-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/scala-library-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/spark-mllib-local_2.12-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/stdlib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/tools4j-cli-0.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/tools4j-nobark-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/VectorGraphics2D-0.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/spravce/eclipse-workspace/TestAnalyticInterface/lib/xchart-3.5.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
